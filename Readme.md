@@ -7,6 +7,7 @@
 #### 目前分类目录
 #### [Two Pointers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers)
 [011.Container-With-Most-Water](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)	(M+)  
+[532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   
 [015.3Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/015.3Sum)  (M)  
 [016.3Sum-Closet](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/016.3Sum-Closest) (M)      
 [018.4Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/018.4Sum) (M)           
@@ -32,8 +33,7 @@
 [1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1989.Maximum-Number-of-People-That-Can-Be-Caught-in-Tag) (M+)      
 [2354.Number-of-Excellent-Pairs](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2354.Number-of-Excellent-Pairs) (H-)     
 [2422.Merge-Operations-to-Turn-Array-Into-a-Palindrome](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2422.Merge-Operations-to-Turn-Array-Into-a-Palindrome) (H-)    
-* ``Sliding window``  
-[532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   
+* ``Sliding window`` 
 [611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+)   
 [930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M+)   
 [1004.Max-Consecutive-Ones-III](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1004.Max-Consecutive-Ones-III) (M)   
