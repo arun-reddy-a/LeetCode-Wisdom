@@ -40,9 +40,9 @@
 [1052.Grumpy-Bookstore-Owner](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1052.Grumpy-Bookstore-Owner) (M) **Done** <br>
 [1358.Number-of-Substrings-Containing-All-Three-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1358.Number-of-Substrings-Containing-All-Three-Characters) (M) **Done**      
 [1838.Frequency-of-the-Most-Frequent-Element](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1838.Frequency-of-the-Most-Frequent-Element) (H-)  
-[395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters) (H)    
+[395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters) (H) **Done**
 [2009.Minimum-Number-of-Operations-to-Make-Array-Continuous](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2009.Minimum-Number-of-Operations-to-Make-Array-Continuous) (M+)      
-[2024.Maximize-the-Confusion-of-an-Exam](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2024.Maximize-the-Confusion-of-an-Exam) (M)     
+[2024.Maximize-the-Confusion-of-an-Exam](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2024.Maximize-the-Confusion-of-an-Exam) (M)  **Done**   
 [424.Longest-Repeating-Character-Replacement](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/424.Longest-Repeating-Character-Replacement) (H-)        
 [2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps) (H)     
 [2401.Longest-Nice-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2401.Longest-Nice-Subarray) (H-)    
@@ -53,7 +53,7 @@
 [2747.Count-Zero-Request-Servers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2747.Count-Zero-Request-Servers) (H-)      
 [2831.Find-the-Longest-Equal-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2831.Find-the-Longest-Equal-Subarray) (M)      
 [2953.Count-Complete-Substrings](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2953.Count-Complete-Substrings) (H)      
-[2958.Length-of-Longest-Subarray-With-at-Most-K-Frequency](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2958.Length-of-Longest-Subarray-With-at-Most-K-Frequency) (M)      
+[2958.Length-of-Longest-Subarray-With-at-Most-K-Frequency](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2958.Length-of-Longest-Subarray-With-at-Most-K-Frequency) (M)  **Done**    
 [2968.Apply-Operations-to-Maximize-Frequency-Score](https://github.com/wisdompeak/LeetCode/tree/master/Math/2968.Apply-Operations-to-Maximize-Frequency-Score) (H-)      
 [3234.Count-the-Number-of-Substrings-With-Dominant-Ones](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/3234.Count-the-Number-of-Substrings-With-Dominant-Ones) (H-)      
 * ``Sliding window : Distinct Characters``    
@@ -1116,7 +1116,7 @@
 [1584.Min-Cost-to-Connect-All-Points](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1584.Min-Cost-to-Connect-All-Points) (H-)  
 
 #### [Recursion](https://github.com/wisdompeak/LeetCode/tree/master/Recursion)
-[1763.Longest-Nice-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1763.Longest-Nice-Substring) (H)      
+[1763.Longest-Nice-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1763.Longest-Nice-Substring) (H)  **Done**   
 [087.Scramble-String](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/087.Scramble-String) (H-)  
 [133.Clone-Graph](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/133.Clone-Graph) (M+)  
 [213.House-Robber-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/213.House-Robber-II) (H-)    
@@ -1242,7 +1242,7 @@
 [2033.Minimum-Operations-to-Make-a-Uni-Value-Grid](https://github.com/wisdompeak/LeetCode/tree/master/Math/2033.Minimum-Operations-to-Make-a-Uni-Value-Grid) (M+)      
 [2448.Minimum-Cost-to-Make-Array-Equal](https://github.com/wisdompeak/LeetCode/tree/master/Math/2448.Minimum-Cost-to-Make-Array-Equal) (H-)     
 [2607.Make-K-Subarray-Sums-Equal](https://github.com/wisdompeak/LeetCode/tree/master/Math/2607.Make-K-Subarray-Sums-Equal) (M+)      
-[1838.Frequency-of-the-Most-Frequent-Element](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1838.Frequency-of-the-Most-Frequent-Element) (H-)      
+[1838.Frequency-of-the-Most-Frequent-Element](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1838.Frequency-of-the-Most-Frequent-Element) (H-) **Done**     
 [2967.Minimum-Cost-to-Make-Array-Equalindromic](https://github.com/wisdompeak/LeetCode/tree/master/Math/2967.Minimum-Cost-to-Make-Array-Equalindromic) (H-)      
 [2968.Apply-Operations-to-Maximize-Frequency-Score](https://github.com/wisdompeak/LeetCode/tree/master/Math/2968.Apply-Operations-to-Maximize-Frequency-Score) (H-)      
 [3086.Minimum-Moves-to-Pick-K-Ones](https://github.com/wisdompeak/LeetCode/tree/master/Math/3086.Minimum-Moves-to-Pick-K-Ones) (H)      
