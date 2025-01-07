@@ -43,18 +43,18 @@
 [395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters) (H) **Done** <br>
 [2009.Minimum-Number-of-Operations-to-Make-Array-Continuous](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2009.Minimum-Number-of-Operations-to-Make-Array-Continuous) (M+)      
 [2024.Maximize-the-Confusion-of-an-Exam](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2024.Maximize-the-Confusion-of-an-Exam) (M)  **Done**   
-[424.Longest-Repeating-Character-Replacement](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/424.Longest-Repeating-Character-Replacement) (H-)        
+[424.Longest-Repeating-Character-Replacement](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/424.Longest-Repeating-Character-Replacement) (H-)  **Done**           
 [2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps) (H)     
-[2401.Longest-Nice-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2401.Longest-Nice-Subarray) (H-)    
+[2401.Longest-Nice-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2401.Longest-Nice-Subarray) (H-)  **Done**   
 [2411.Smallest-Subarrays-With-Maximum-Bitwise-OR](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2411.Smallest-Subarrays-With-Maximum-Bitwise-OR) (H-)    
-[2516.Take-K-of-Each-Character-From-Left-and-Right](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2516.Take-K-of-Each-Character-From-Left-and-Right) (M+)    
+[2516.Take-K-of-Each-Character-From-Left-and-Right](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2516.Take-K-of-Each-Character-From-Left-and-Right) (M+)  **Done**  
 [2564.Substring-XOR-Queries](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2564.Substring-XOR-Queries) (H-)    
 [2730.Find-the-Longest-Semi-Repetitive-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2730.Find-the-Longest-Semi-Repetitive-Substring) (M+)      
 [2747.Count-Zero-Request-Servers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2747.Count-Zero-Request-Servers) (H-)      
-[2831.Find-the-Longest-Equal-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2831.Find-the-Longest-Equal-Subarray) (M)      
+[2831.Find-the-Longest-Equal-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2831.Find-the-Longest-Equal-Subarray) (M)  **Done**         
 [2953.Count-Complete-Substrings](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2953.Count-Complete-Substrings) (H)      
 [2958.Length-of-Longest-Subarray-With-at-Most-K-Frequency](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2958.Length-of-Longest-Subarray-With-at-Most-K-Frequency) (M)  **Done**    
-[2968.Apply-Operations-to-Maximize-Frequency-Score](https://github.com/wisdompeak/LeetCode/tree/master/Math/2968.Apply-Operations-to-Maximize-Frequency-Score) (H-)      
+[2968.Apply-Operations-to-Maximize-Frequency-Score](https://github.com/wisdompeak/LeetCode/tree/master/Math/2968.Apply-Operations-to-Maximize-Frequency-Score) (H-)  **Done**         
 [3234.Count-the-Number-of-Substrings-With-Dominant-Ones](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/3234.Count-the-Number-of-Substrings-With-Dominant-Ones) (H-)      
 * ``Sliding window : Distinct Characters``    
 [076.Minimum-Window-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/076.Minimum-Window-Substring) (M+)    
